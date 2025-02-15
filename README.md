@@ -6,7 +6,7 @@ HELLO, I am [Hüseyin Emre ŞEN]
 
 
 for everything = https://linktr.ee/husave
-)
+
 
 <!-- This is taken from https://github.com/maddhruv/npm-statistics -->
 
